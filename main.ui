@@ -25,6 +25,13 @@
       </property>
      </widget>
     </item>
+    <item>
+     <widget class="QPushButton" name="openw2">
+      <property name="text">
+       <string>Редактировать текущую строку или добавить новый вид кофе</string>
+      </property>
+     </widget>
+    </item>
    </layout>
   </widget>
   <widget class="QMenuBar" name="menubar">
